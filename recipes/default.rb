@@ -4,8 +4,7 @@
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
 
-chef_file '/tmp/test' do
-  content 'test file' 
-end  
-
-
+file '/tmp/' do
+  content '<html>This is a placeholder for the home page.</html>'
+  mode '0755'
+end
