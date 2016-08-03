@@ -1,5 +1,5 @@
 name 'helloworld'
-maintainer 'The Authors'
+maintainer 'The Authors name'
 maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures helloworld'
