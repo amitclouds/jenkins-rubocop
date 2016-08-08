@@ -1,4 +1,4 @@
-# helloworld
+#  dummy cookbook for jenkins/TeamCity to test  with rubocop and foodcritic.
 
-TODO: Enter the cookbook description here.
+
 
